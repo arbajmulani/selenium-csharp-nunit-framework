@@ -43,7 +43,7 @@ namespace selenium_csharp_nunit_framework.Pages
             DriverActions.VerifyText(componentName, txt_WelcomeToSecureArea, model.TXT_WelcomeToSecureArea);
             Thread.Sleep(2000);
             DriverActions.IsElementPresent(componentName, btnLogout);
-            Thread.Sleep(2000);
+
         }
 
     }
