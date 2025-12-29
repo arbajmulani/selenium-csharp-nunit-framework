@@ -1,0 +1,9 @@
+{
+  "ValidLogin": {
+    "Username": "tomsmith",
+    "Password": "SuperSecretPassword!",
+    "TXT_YouLoggedInSecureArea": "You logged into a secure area",
+    "TXT_WelcomeToSecureArea": "Welcome to the Secure Area. When you are done click logout below."
+
+  }
+}
